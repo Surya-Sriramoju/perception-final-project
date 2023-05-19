@@ -19,4 +19,6 @@
 * For inference testing, comment the training snippet and uncomment the testing snippet.
 * Provide the path to the weights and run the main.py file
 
+##### Note: if you just want to run the inference, please contact the authors for weight file, as github does not allow large files to be uploaded #####
+
 
