@@ -26,6 +26,9 @@
 * make sure roscore is running on the master, and images are being published by the slave.
 * On the master system, execute rosrun cam_sub_node cam_sub_file.py
 
+###### Link to the test inference ######
+* https://drive.google.com/file/d/1gtWto1aAiyGkXPuQ824MwXi0A5vE3G_i/view?usp=share_link
+
 ##### Note: if you just want to run the inference, please contact the authors for weight file, as github does not allow large files to be uploaded #####
 
 ##### Authors #####
